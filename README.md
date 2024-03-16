@@ -12,7 +12,6 @@ This project implements the classic Snake Game using a grid-based canvas. The sn
 
 ## Demo Video
 
-[![Watch the video]
 https://github.com/sagarmaharana11/Snake-Game/assets/84629279/be746542-6950-4bd4-a541-3ef2fe8c9297
 
 
